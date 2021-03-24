@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606685233 source:f:\2020-2021\esme\ts1\langage_c\codes\projets\projet1\main.c
+	<stdio.h>
+	<stdlib.h>
+

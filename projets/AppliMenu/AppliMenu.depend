@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607893021 source:f:\2020-2021\esme\ts1\langage_c\codes\tableaux\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"header/utiltab.h"
+	"header/fonctions_matrice_v2.h"
+
+1607889885 f:\2020-2021\esme\ts1\langage_c\codes\tableaux\header\utiltab.h
+
+1607892474 f:\2020-2021\esme\ts1\langage_c\codes\tableaux\header\fonctions_matrice_v2.h
+
